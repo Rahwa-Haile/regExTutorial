@@ -27,6 +27,9 @@ console.log(exists2)
 //+ ==> one or more
 //* ==> Zero or more
 //? ==> Makes it optional
+
+
+//Metacharacters
 //\w ==> matches any word character equal to a-z, A-Z, 0-9, _
 //\d ==> matches any arbitrary string of digits
 //\s ==> For verifying spaces
